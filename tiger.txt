@@ -1,6 +1,6 @@
 team : Tigers
 
-manager : DongA
+manager : MiSeon
 
 members :
 - JinHo
