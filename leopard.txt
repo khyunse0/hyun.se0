@@ -4,3 +4,4 @@ manager : JeongSeop
 
 members :
 - JinHo
+- Olivia
